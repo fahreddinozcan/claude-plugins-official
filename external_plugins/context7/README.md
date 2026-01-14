@@ -13,11 +13,10 @@ This plugin provides:
 
 ## Installation
 
-Add the marketplace and install the plugin:
+Install the plugin from the official marketplace:
 
 ```bash
-claude plugin marketplace add upstash/context7
-claude plugin install context7-plugin@context7-marketplace
+claude plugin install context7@claude-plugins-official
 ```
 
 ## Available Tools
